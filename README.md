@@ -24,6 +24,10 @@ This repository contains my completed work for the machine learning introduction
 
 ![workflow](https://github.com/harishmuh/Intro-to-ML-using-Galaxy_Breast-cancer-dataset/blob/main/Docs/Breast%20Cancer%20Classification_Workflow.PNG?raw=true)
 
-**Prediction results**: The targets (0: no breast cancer, 1: positive breast cancer) can be seen in the last column of the table below. 
+**Prediction results**
+* The targets (0: no breast cancer, 1: positive breast cancer) can be seen in the last column of the table below. 
 
 ![Prediction result](https://github.com/harishmuh/Intro-to-ML-using-Galaxy_Breast-cancer-dataset/blob/main/Docs/Prediction%20result.PNG?raw=true)
+
+## **Assets**
+* [My analysis in Galaxy](https://usegalaxy.eu/u/harish_muh12/w/workflow-constructed-from-history-machine-learningintrobreast-cancer)
